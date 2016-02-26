@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rexpfd>
+    <destination path="DESKTOP-VU30JOP.Raspberry Pi:/home/pi/workspace"/>
+    <options createDirectoryStructure="false" createSelectedOnly="true" descriptionFilePath="/Alarmanlage/exp.rexpfd" overWriteExistingFiles="false" reviewSynchronize="true" saveSettings="true"/>
+    <selectedElements>
+        <project name="Alarmanlage"/>
+    </selectedElements>
+</rexpfd>
